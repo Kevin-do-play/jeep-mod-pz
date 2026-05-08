@@ -1,0 +1,11 @@
+require "Items/ProceduralDistributions"
+-- 92jeepYJWinch2
+table.insert(ProceduralDistributions.list["GarageMechanics"].items, "Base.92jeepYJWinch2");
+table.insert(ProceduralDistributions.list["GarageMechanics"].items, 0.1);
+table.insert(ProceduralDistributions.list["MechanicShelfTools"].items, "Base.92jeepYJWinch2");
+table.insert(ProceduralDistributions.list["MechanicShelfTools"].items, 0.1);
+-- 92jeepYJSnorkel2
+table.insert(ProceduralDistributions.list["CrateMechanics"].items, "Base.92jeepYJSnorkel2");
+table.insert(ProceduralDistributions.list["CrateMechanics"].items, 0.1);
+table.insert(ProceduralDistributions.list["MechanicShelfMisc"].items, "Base.92jeepYJSnorkel2");
+table.insert(ProceduralDistributions.list["MechanicShelfMisc"].items, 0.1);
